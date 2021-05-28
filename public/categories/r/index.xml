@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on A Hugo website</title>
+    <link>/categories/r/</link>
+    <description>Recent content in R on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firt est</title>
+      <link>/2021/05/28/firt-est/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/05/28/firt-est/</guid>
+      <description>这是第一次建立个人网站 第一次建立个人网站，有许多问题尚未解决，在此过程中获得了许多帮助，感谢统计之都的各位。</description>
+    </item>
+    
+    <item>
+      <title>Statistical software home work</title>
+      <link>/2021/05/28/statistical-software-home-work/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/05/28/statistical-software-home-work/</guid>
+      <description>这是统计软件课程的课程作业，发到个人网站上希望可以作为存底，以后如果有需要可以直接查阅。
+第一次作业第一题help(stem)## starting httpd help server ... donedata5&amp;lt;-c(12, 12, 11, 10, 9, 10, 12)stem(data5)## ## The decimal point is at the |## ## 9 | 0## 10 | 00## 11 | 0## 12 | 000第二题x &amp;lt;- ((0:10000)/10000)*2*piy &amp;lt;- x^3 + sin(x)*cos(x)plot(x, y, col=&amp;quot;blue&amp;quot;, type=&amp;quot;l&amp;quot;, xlab=&amp;quot;自变量X&amp;quot;, ylab=&amp;quot;函数Y&amp;quot;, main=&amp;quot;示意图&amp;quot;)第二次作业第一题1.随机变量\(X~B(10,0.4)\),求分布律和分布函数，求\(P(X=3)\)解：</description>
+    </item>
+    
+  </channel>
+</rss>
